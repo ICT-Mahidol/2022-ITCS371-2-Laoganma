@@ -2,7 +2,7 @@
 
 This project has been done under the scope of a Software development company which is the Digital Game Store System. All of the deliverables and presentation slides are included under the ```phase-1``` folder in the ```sec2_Laoganma_report.pdf``` and ```sec2_Laoganma_slides.pdf```, respectively. Since the diagrams might be difficult to see on the report (e.g., too small), our team separately provides the .png file inside the folder name ```Diagrams``` with the explicit naming file.
 
-> **Here is the provided link to the video presentation (www.smartView.com)**
+> **Here is the provided link to the video presentation: https://drive.google.com/file/d/136ZTTfqzzXPnWiku6RTiMW4_RoG45xTG/view?usp=sharing**
 
 ### First Phase Deliverables:
 - [X] Introduction including the Business Overview, Main Products and Services, Target Customers, Key Business Processes
